@@ -3,21 +3,21 @@
   <groupId>ncpl.bms.reports</groupId>
   <artifactId>bms-reports</artifactId>
   <versioning>
-    <lastUpdated>20250829120304</lastUpdated>
+    <lastUpdated>20250903122811</lastUpdated>
     <snapshot>
-      <timestamp>20250829.120304</timestamp>
-      <buildNumber>6</buildNumber>
+      <timestamp>20250903.122811</timestamp>
+      <buildNumber>7</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20250829.120304-6</value>
-        <updated>20250829120304</updated>
+        <value>0.0.1-20250903.122811-7</value>
+        <updated>20250903122811</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20250829.120304-6</value>
-        <updated>20250829120304</updated>
+        <value>0.0.1-20250903.122811-7</value>
+        <updated>20250903122811</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

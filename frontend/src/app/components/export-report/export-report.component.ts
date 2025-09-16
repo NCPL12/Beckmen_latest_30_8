@@ -262,7 +262,7 @@ public submit(): void {
           newTab.setTimeout(() => {
             const confirmed = newTab.confirm("Report generated successfully. Click OK to return to the app.");
             if (confirmed) {
-              newTab.location.href = 'http://localhost:4200/reports'; // ✅ Change to your app's home page or dashboard
+              newTab.location.href = 'http://localhost:4200/#/reports'; // ✅ Change to your app's home page or dashboard
             }
           }, 8000); // Adjust the delay if your report takes more/less time to generate
         },
